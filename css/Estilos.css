@@ -1,0 +1,57 @@
+.inicio{
+    text-align: center;
+    
+}
+.meio{
+    text-align: center;
+    display: inline-block;
+    padding-left: 160px;
+    font-size: 24;
+    position: absolute;
+    top: 825px;
+   
+    
+}
+
+a {
+    color: #FFFFFF;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-family: Arial;
+}
+
+ul{
+    text-align: center;
+    display: inline;
+    
+}
+li{
+    display: inline;
+    margin-right:250;
+}
+
+p {
+    font-family: Arial;
+    text-align: center;
+   align-items: center
+}
+
+body {
+    background-color: #FFFFFF;
+}
+h2{
+    font-family: sans-serif; 
+    color: #A4A4A4;
+    text-align: center;
+}
+h1{
+    font-family:sans-serif;
+    color: #FFFFFF;
+}
+
+table{
+    font-family: sans-serif;
+    background: #696969;
+    color: #FFFFFF;
+}
+
